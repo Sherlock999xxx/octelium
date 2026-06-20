@@ -21,7 +21,7 @@ require (
 	github.com/openai/openai-go/v3 v3.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.11.1
-	go.mongodb.org/mongo-driver/v2 v2.3.0
+	go.mongodb.org/mongo-driver/v2 v2.4.2
 	go.uber.org/zap v1.27.1
 	golang.org/x/net v0.52.0
 	golang.org/x/oauth2 v0.35.0
