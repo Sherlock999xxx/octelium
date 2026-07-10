@@ -3,7 +3,7 @@ module github.com/octelium/octelium/cluster/genesis
 go 1.25.8
 
 require (
-	github.com/cilium/cilium v1.18.9
+	github.com/cilium/cilium v1.18.10
 	github.com/k8snetworkplumbingwg/network-attachment-definition-client v1.7.7
 	github.com/octelium/octelium/apis v0.0.0-00010101000000-000000000000
 	github.com/octelium/octelium/cluster/apiserver v0.0.0-00010101000000-000000000000
@@ -154,7 +154,7 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.50.0 // indirect
 	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f // indirect
-	golang.org/x/net v0.52.0 // indirect
+	golang.org/x/net v0.53.0 // indirect
 	golang.org/x/oauth2 v0.35.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/sys v0.43.0 // indirect
